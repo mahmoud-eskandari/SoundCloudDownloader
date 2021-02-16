@@ -2,10 +2,15 @@
 Download songs directly from SoundCloud using Python and Ffmpeg
 
 
-### Usage
+# Dependencies
+- Python
+- pip
+- pipenv
+
+### Installation
 
 `pipenv install `
 
-Start app
+### Usage
 
-`python start.py`
+run `python main_console.py` or `python main_ui.py`  
